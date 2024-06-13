@@ -29,7 +29,7 @@ Tangkapan layar komponen produk:
 4. Dashboard
    ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/f6a2f77d-93c9-4bf6-906c-336b63aedcd4)
 
-5. Index
+5. Map (Index)
    ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/b56dad65-382a-452d-ba0b-ebe142aa0a7c)
 
 6. Info

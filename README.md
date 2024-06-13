@@ -1,66 +1,40 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# responsi-pgwl
+LINK DEMO--> https://galuhazzahraaa.github.io/responsi-pgwl/
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Nama produk: Bandung Legendary Craving Map
+Deskripsi produk : Website ini dibuat untuk membantu para wisatawan untuk menemukan tempat makan legendaris yang ada di Bandung.
 
-## About Laravel
+Komponen Produk :
+- Laravel
+- Bootstrap
+- Font Awesome
+- Geoserver
+- QGIS
+- Dbeaver
+- Foto pendukung dari google chrome
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Tangkapan layar komponen produk:
+1. Landing Page
+   ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/b3bf1f34-8bb1-407d-933e-ba6cde3bfab3)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+2. Index Public
+   ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/da722ada-315f-4b79-b7c6-61bdeeee092e)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+3. Login
+   ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/e2331002-2615-40af-85e3-a871fc1470fd)
 
-## Learning Laravel
+4. Dashboard
+   ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/f6a2f77d-93c9-4bf6-906c-336b63aedcd4)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+5. Index
+   ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/b56dad65-382a-452d-ba0b-ebe142aa0a7c)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+6. Info
+   ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/b275496e-5dc4-4d04-af3d-95a3d0f9edea)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+   
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

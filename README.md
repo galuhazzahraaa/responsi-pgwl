@@ -3,6 +3,10 @@ Nama produk: Bandung Legendary Craving Map
 
 Deskripsi produk : Website ini dibuat untuk membantu para wisatawan untuk menemukan tempat makan legendaris yang ada di Bandung.
 
+Sumber Data :
+- https://www.kompas.com/food/read/2023/09/02/131700875/35-tempat-makan-enak-di-bandung-dari-legendaris-hingga-kekinian
+- https://indonesia.tripcanvas.co/id/bandung/tempat-makan-legendaris/
+
 Komponen Produk :
 - Laravel
 - Bootstrap

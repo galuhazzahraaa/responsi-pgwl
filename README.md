@@ -18,7 +18,7 @@ Komponen Produk :
 
 Tangkapan layar komponen produk:
 1. Landing Page
-   ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/b3bf1f34-8bb1-407d-933e-ba6cde3bfab3)
+   ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/b49666e0-07c2-4ca1-9747-425c7b4d0ab6)
 
 2. Index Public
    ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/da722ada-315f-4b79-b7c6-61bdeeee092e)

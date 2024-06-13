@@ -35,6 +35,10 @@ Tangkapan layar komponen produk:
 6. Info
    ![image](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/b275496e-5dc4-4d04-af3d-95a3d0f9edea)
 
+7. Fitur Search
+   ![Screenshot 2024-06-13 221056](https://github.com/galuhazzahraaa/responsi-pgwl/assets/135418988/a45593e6-1a19-448b-bddd-111bf6e43780)
+
+
 
 
 
